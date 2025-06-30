@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]  
+# ¡Hola! 👋 Soy [Gustavo]  
 *Desarrollador Front End | Especializado en React & JavaScript*  
 
 💼 **Trabajo en:** Creación de interfaces dinámicas y accesibles.  
