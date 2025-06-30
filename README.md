@@ -19,6 +19,6 @@
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dracula&hide_border=true)](https://github.com/kakashidomo)  
 
 ## 🔗 Enlaces útiles  
-- [Portafolio]
+- [Portafolio](https://github.com/users/kakashidomo/contributions)
 - [LinkedIn](https://www.linkedin.com/in/gustavolastrac/)  
 - [Proyecto Destacado] 
