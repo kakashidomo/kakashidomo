@@ -3,7 +3,7 @@
 
 💼 **Trabajo en:** Creación de interfaces dinámicas y accesibles.  
 🌱 **Aprendiendo:** "Testing con Cypress".  
-📫 **Contáctame:** [LinkedIn](https://www.linkedin.com/in/gustavolastrac/) | [Email](mailto:gpct2025@gmail.com)  
+📫 **Contáctame:** [LinkedIn](https://www.linkedin.com/in/gustavolastrac/) | [Email](gpct2025@gmail.com)  
 
 ## 🚀 Tecnologías  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -17,9 +17,8 @@
 ## 📊 Estadísticas de GitHub  
 [![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dracula&hide_border=true)](https://github.com/kakashidomo)  
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dracula&hide_border=true)](https://github.com/kakashidomo)  
-(https://github.com/users/kakashidomo/contributions)
-(https://github.com/users/kakashidomo/contributions)
+
 ## 🔗 Enlaces útiles  
-- [Portafolio](https://github.com/users/kakashidomo/contributions)
+- [Portafolio]
 - [LinkedIn](https://www.linkedin.com/in/gustavolastrac/)  
 - [Proyecto Destacado] 
