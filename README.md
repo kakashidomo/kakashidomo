@@ -3,7 +3,7 @@
 
 💼 **Trabajo en:** Creación de interfaces dinámicas y accesibles.  
 🌱 **Aprendiendo:** "Testing con Cypress".  
-📫 **Contáctame:** [LinkedIn](https://www.linkedin.com/in/gustavolastrac/) | [Email](gpct2025@gmail.com)  
+📫 **Contáctame:** [LinkedIn](https://www.linkedin.com/in/gustavolastrac/) | [Email](mailto:gpct2025@gmail.com)  
 
 ## 🚀 Tecnologías  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
