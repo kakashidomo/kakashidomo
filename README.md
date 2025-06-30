@@ -1,9 +1,9 @@
-# ¡Hola! 👋 Soy [Gustavo]  
+# ¡Hola! 👋 Soy Gustavo  
 *Desarrollador Front End | Especializado en React & JavaScript*  
 
 💼 **Trabajo en:** Creación de interfaces dinámicas y accesibles.  
-🌱 **Aprendiendo:** [Algo relevante, ej: "Next.js o Testing con Cypress"].  
-📫 **Contáctame:** [LinkedIn](https://www.linkedin.com/in/ejemplo.ejemplo/) | [Email](mailto:tucorreo@ejemplo.com)  
+🌱 **Aprendiendo:** "Testing con Cypress".  
+📫 **Contáctame:** [LinkedIn](https://www.linkedin.com/in/ejemplo.ejemplo/) | [Email](mailto:gpct2025@gmail.com)  
 
 ## 🚀 Tecnologías  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
