@@ -17,7 +17,8 @@
 ## 📊 Estadísticas de GitHub  
 [![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dracula&hide_border=true)](https://github.com/kakashidomo)  
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dracula&hide_border=true)](https://github.com/kakashidomo)  
-
+(https://github.com/users/kakashidomo/contributions)
+(https://github.com/users/kakashidomo/contributions)
 ## 🔗 Enlaces útiles  
 - [Portafolio](https://github.com/users/kakashidomo/contributions)
 - [LinkedIn](https://www.linkedin.com/in/gustavolastrac/)  
